@@ -1,0 +1,5 @@
+seg:0###   same: 691   unsame: 13   accuracy: 0.9815340909090909
+seg:0.2###   same: 689   unsame: 15   accuracy: 0.9786931818181818
+seg:0.4###   same: 690   unsame: 14   accuracy: 0.9801136363636364
+seg:0.6###   same: 688   unsame: 16   accuracy: 0.9772727272727273
+seg:0.8###   same: 681   unsame: 23   accuracy: 0.9673295454545454
